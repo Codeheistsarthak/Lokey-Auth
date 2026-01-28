@@ -1,0 +1,4 @@
+secure_auth.db
+*.db
+__pycache__/
+*.nbak
