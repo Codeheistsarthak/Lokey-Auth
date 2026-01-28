@@ -14,5 +14,3 @@ Instead of relying solely on passwords, Lokey analyzes **how** a user types. Usi
     * **Secure Backups:** AES-GCM encrypted JSON exports for model portability.
     * **Storage:** SQLite in WAL (Write-Ahead Logging) mode with thread-safe locking.
 * **Interface:** Modern, responsive UI built with `CustomTkinter`, featuring asynchronous non-blocking sensor updates.
-
-## 🚀 Installation & Usage
